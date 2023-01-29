@@ -1,7 +1,7 @@
 export const portfolioData = [
   {
     id: 1,
-    category: "ui",
+    category: "ui-ux",
     title: "Test UI",
     imgSrc: "https://via.placeholder.com/300x800/FFcb00/000000",
   },
@@ -13,19 +13,19 @@ export const portfolioData = [
   },
   {
     id: 3,
-    category: "landingPage",
+    category: "landing-page",
     title: "Test landing page",
     imgSrc: "https://via.placeholder.com/400x900/FFcb00/000000",
   },
   {
     id: 4,
-    category: "htmlEmail",
+    category: "html-email",
     title: "text html emails",
     imgSrc: "https://via.placeholder.com/300x500/FFcb00/000000",
   },
   {
     id: 5,
-    category: "logos",
+    category: "logo",
     title: "test logos",
     imgSrc: "https://via.placeholder.com/300x300/FFcb00/000000",
   },

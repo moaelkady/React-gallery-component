@@ -1,7 +1,5 @@
 import { portfolioData } from "../../data/portfolio.data";
-
 import GalleryMenu from "../gallery-menu/gallery-menu.component";
-import GalleryView from "../gallery-view/gallery-view.component";
 
 import "./portfolio-gallery.styles.scss";
 
@@ -10,7 +8,6 @@ const PortfolioGallery = () => {
     <div className="portfolio-gallery-container">
       <div className="portfolio-gallery">
         <GalleryMenu portfolioData={portfolioData} />
-        <GalleryView portfolioData={portfolioData} />
       </div>
     </div>
   );
