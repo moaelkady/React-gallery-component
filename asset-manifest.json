@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-gallery-component/static/css/main.cf13c6d6.css",
+    "main.js": "/React-gallery-component/static/js/main.a855ba95.js",
+    "index.html": "/React-gallery-component/index.html",
+    "static/media/return.svg": "/React-gallery-component/static/media/return.7ef1092e01ed0ac2048afa1388b6bbd1.svg",
+    "static/media/rightArrow.svg": "/React-gallery-component/static/media/rightArrow.a0fc8820115a2634fd526454e5e33628.svg",
+    "static/media/leftArrow.svg": "/React-gallery-component/static/media/leftArrow.e94c0d9d837a2956eee46cf250e4edc6.svg",
+    "main.cf13c6d6.css.map": "/React-gallery-component/static/css/main.cf13c6d6.css.map",
+    "main.a855ba95.js.map": "/React-gallery-component/static/js/main.a855ba95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf13c6d6.css",
+    "static/js/main.a855ba95.js"
+  ]
+}
