@@ -1,0 +1,26 @@
+.gallery-menu-container {
+  font-family: "Gtypom";
+  font-weight: 700;
+  font-size: 1.2rem;
+  .gallery-menu {
+    ul {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+      li {
+        cursor: pointer;
+        margin: 5px;
+        transition: 0.3s;
+        &:hover {
+          color: #ed1f1f;
+        }
+      }
+      li.active {
+        border: none;
+        color: #ed1f1f;
+        transform: scale(1.1);
+      }
+    }
+  }
+}

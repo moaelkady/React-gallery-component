@@ -7,7 +7,10 @@ const GalleryView = ({ portfolioData }) => {
         {portfolioData.map(({ id, category, title, imgSrc }) => (
           <div className={"gallery-item " + category} key={id}>
             <div className="item-box">
-              <div className="thumb" style={{ backgroundImage: `url(${imgSrc})` }}></div>
+              <div
+                className="thumb"
+                style={{ backgroundImage: `url(${imgSrc})` }}
+              ></div>
               <div className="content">
                 <div className="tags">
                   <h3>{category}</h3>
