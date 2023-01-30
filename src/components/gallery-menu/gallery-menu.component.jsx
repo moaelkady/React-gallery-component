@@ -45,49 +45,49 @@ const GalleryMenu = ({ portfolioData }) => {
               data-filter="*"
               onClick={handleChoice}
             >
-              All Work
+              All Categories
             </li>
             <li
               className="gallery-menu-item"
-              data-filter="ui-ux"
+              data-filter="category1"
               onClick={handleChoice}
             >
-              UI/UX
+              Category1
             </li>
             <li
               className="gallery-menu-item"
-              data-filter="graphics"
+              data-filter="category2"
               onClick={handleChoice}
             >
-              Graphics
+              Category2
             </li>
             <li
               className="gallery-menu-item"
-              data-filter="logo"
+              data-filter="category3"
               onClick={handleChoice}
             >
-              Logo
+              Category3
             </li>
             <li
               className="gallery-menu-item"
-              data-filter="website"
+              data-filter="category4"
               onClick={handleChoice}
             >
-              Website
+              Category4
             </li>
             <li
               className="gallery-menu-item"
-              data-filter="landing-page"
+              data-filter="category5"
               onClick={handleChoice}
             >
-              Landing Page
+              Category5
             </li>
             <li
               className="gallery-menu-item"
-              data-filter="html-email"
+              data-filter="category6"
               onClick={handleChoice}
             >
-              HTML Email
+              Category6
             </li>
           </ul>
         </div>

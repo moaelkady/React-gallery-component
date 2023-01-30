@@ -24,7 +24,7 @@ const GalleryModel = (props) => {
       <img
         src={ReturnArrow}
         className="close"
-        alt="dds"
+        alt="model data"
         onClick={handleClick}
       />
       <div
